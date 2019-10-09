@@ -9,7 +9,7 @@
 		public $jumlahPenumpang;
 
 		public function tambahKecepatan(){
-			return $this->kecepatan += 10;
+			return $this->kecepatanMaksimal += 10;
 		}
 
 		public function kurangiKecepatan(){
